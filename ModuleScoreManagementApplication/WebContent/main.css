@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+
+.insert{
+	border:1px solid black;
+	width:50%;
+	height:50%;
+	padding:25px;
+	}
+	
+h1, h3{text-align:center;}
